@@ -33,8 +33,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='[([https://imgur.com/a/cO4D6DK](https://imgur.com/a/week1-live-demo-cO4D6DK))]' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+[![Watch the video]](https://imgur.com/a/week1-live-demo-cO4D6DK)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  LICEcap
